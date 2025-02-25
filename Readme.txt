@@ -4,9 +4,9 @@ How to run the Doctor Appointment Management System Project Using PHP and MySQL
 
 2. Extract the file and copy dams folder
 
-3.Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/HTML)
+3. Paste inside root directory(for xampp xampp/htdocs, for wamp wamp/www, for lamp var/www/HTML)
 
-4.Open PHPMyAdmin (http://localhost/phpmyadmin)
+4. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
 5. Create a database with the name damsmsdb
 
@@ -14,10 +14,10 @@ How to run the Doctor Appointment Management System Project Using PHP and MySQL
 
 7. Run the script http://localhost/dams
 
-Doctor Login
+8. Doctor Login
 
-Username: anu@gmail.com
+   Username: anu@gmail.com
 
-Password: Test@123
+   Password: Test@123
 
-Or Register a new user.
+9. Or Register a new user.
